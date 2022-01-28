@@ -74,7 +74,7 @@ th:nth-child(4) {
 }
 
 th:nth-child(5) {
-	width: 95px;
+	width: 110px;
 }
 
 td:nth-child(1) {
@@ -98,7 +98,7 @@ td:nth-child(5) {
 }
 
 td input {
-	width: 93%;
+	width: 85%;
 	text-align: right;
 }
 
